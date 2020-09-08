@@ -12,7 +12,7 @@ Portanto esse repositório tem o objetivo de concentrar e disseminar o conhecime
 
 ## Materiais e métodos
 
-A partir dos dados vetoriais e de cadastro de equipamentos de educação do GeoSampa vamos selecionar algumas áreas para selecionar o levantamento de nuvem de pontos LiDAR 3D. Para isso vamos usar a linguagem de programação Python e bibliotécas de código aberto em Notebooks comentados a cada passo.
+A partir dos dados vetoriais e de cadastro de equipamentos de educação do GeoSampa vamos selecionar algumas áreas para selecionar o levantamento de nuvem de pontos LiDAR 3D. Para isso vamos usar a linguagem de programação Python e bibliotécas de código aberto em Notebooks comentados a cada passo. Os notebooks estão numerados e nomeados pela sequência em que devem ser processados
 
 ## REsultados esperados
 
